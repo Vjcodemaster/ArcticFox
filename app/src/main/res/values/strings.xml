@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Arctic Fox</string>
+    <string name="facebook_app_id">1019215238419295</string>
+    <string name="fb_login_protocol_scheme">fb1019215238419295</string>
+
+    <string name="hint_user_id">User ID</string>
+    <string name="hint_password">Password</string>
+    <string name="arctic_fox">arctic fox</string>
+
+    <string name="google">Google</string>
+    <string name="sign_in">Sign in</string>
+</resources>
